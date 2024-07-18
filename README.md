@@ -20,7 +20,7 @@ This is a touchdesigner-based software to live-control the kinetic light install
 |      |                          | 0 - 255       | Dimmer-Value                | set the global brightness                                          |          |
 | 3    | Color-Presets            |               |                             |                                                                    |          |
 |      |                          | 0 - 14        | off                         |                                                                    |          |  
-|      |                          | 15 - 42       | Color-Preset 1              | dark blue - red                                                    | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1175px-Test-Logo.svg.png) |  
+|      |                          | 15 - 42       | Color-Preset 1              | dark blue - red                                                    | ![](Documentation/Images/Color1.jpg) |  
 |      |                          | 43 - 70       | Color-Preset 2              | blue                                                               |
 |      |                          | 71 - 99       | Color-Preset 3              | pink                                                               |
 |      |                          | 100 - 172     | Color-Preset 4              | green                                                              |
