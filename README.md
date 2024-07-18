@@ -3,7 +3,7 @@ This is a touchdesigner-based software to live-control the kinetic light install
 
 ## Contents
 
-- [Overiview & UI](#Overview&UI)
+- [Overiview & UI](#Overview)
 - [Efect- and Color Presets](#effektübersicht)
 - [Controls](#controls)
   - [DMX-Overview](#Dmx-Overview)
