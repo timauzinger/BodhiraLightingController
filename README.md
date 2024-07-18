@@ -28,8 +28,11 @@ Here you can have a look at the UI wich displays all controlable values:
 
 As an additional Feature Audio can be inserted to be able to use a custom AutoPilot. This then changes the Base-Effect and Color as well as Overlay-Effects according to the Audio-Input. **Note:*** the thresholds for Kick and Snare detection have to be adjusted to make a good detection for the actual Song.
 
+## Controls
 
-## Dmx-Overview 
+Bohira can currently be controlled via DMx-Input or using an "Ableton Push 2". It always can also be controlled using the UI via mouse or touchscreen. In Future versions OSC-controlls may be added. 
+
+### Dmx-Overview 
 
 | Ch   | Name                     | Range         | Value                       | Description                                                        | Image    |
 |------|--------------------------|---------------|-----------------------------|--------------------------------------------------------------------|----------|
