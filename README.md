@@ -6,8 +6,7 @@ This is a touchdesigner-based software to live-control the kinetic light install
 - [Overview & UI](#Overview-&-UI)
 - [Controls](#controls)
   - [DMX-Overview](#Dmx-Overview)
-- [Beitragende](#beitragende)
-- [Lizenz](#lizenz)
+- [Contributors](#Contributors)
 
 ## Overview & UI
 
@@ -101,4 +100,9 @@ Bodhira can currently be controlled via DMx-Input or using an "Ableton Push 2". 
 | 17   | **AutoPilot**                |               |                             |                                                                    |      |
 |      |                          | 0             | off                         |                                                                    |      |
 |      |                          | 255           | on                          | activate audioreactive AutoPilot. Only works if audio is injected to the System. User can still control everything. |      |
+
+
+## Contributors
+
+This Project was initalized and the idea of Daniel Baer. He did a lot of work resarching and engineering the hardware part, including welding, wireing drilling, 3D-Printing, Arduino Programing and on and on... Me (Tim Auzinger) entered the project at a later point and  I developed the touchdesigner based lighting control software including the pixelmapping and so on. The Project owner is Daniel Baer and for questions regarding showcase or anything like that he is the one to ask.
 
