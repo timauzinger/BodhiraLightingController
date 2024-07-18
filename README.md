@@ -21,13 +21,13 @@ This is a touchdesigner-based software to live-control the kinetic light install
 | 3    | Color-Presets            |               |                             |                                                                    |          |
 |      |                          | 0 - 14        | off                         |                                                                    |          |  
 |      |                          | 15 - 42       | Color-Preset 1              | dark blue - red                                                    | ![](Documentation/Images/Color1.jpg) |  
-|      |                          | 43 - 70       | Color-Preset 2              | blue                                                               |
-|      |                          | 71 - 99       | Color-Preset 3              | pink                                                               |
-|      |                          | 100 - 172     | Color-Preset 4              | green                                                              |
-|      |                          | 128 - 155     | Color-Preset 5              | lime                                                               |
-|      |                          | 156 - 184     | Color-Preset 6              | red - orange                                                       |
-|      |                          | 185 - 212     | Color-Preset 7              | dark red                                                           |
-|      |                          | 213 - 255     | Color-Preset 8              | white                                                              |
+|      |                          | 43 - 70       | Color-Preset 2              | blue                                                               | ![](Documentation/Images/Color2.jpg) |
+|      |                          | 71 - 99       | Color-Preset 3              | pink                                                               | ![](Documentation/Images/Color3.jpg) |
+|      |                          | 100 - 172     | Color-Preset 4              | green                                                              | ![](Documentation/Images/Color4.jpg) |
+|      |                          | 128 - 155     | Color-Preset 5              | lime                                                               | ![](Documentation/Images/Color5.jpg) |
+|      |                          | 156 - 184     | Color-Preset 6              | red - orange                                                       | ![](Documentation/Images/Color6.jpg) |
+|      |                          | 185 - 212     | Color-Preset 7              | dark red                                                           | ![](Documentation/Images/Color7.jpg) |
+|      |                          | 213 - 255     | Color-Preset 8              | white                                                              | ![](Documentation/Images/Color8.jpg) |
 | 4    | Color-Shift              |               |                             |                                                                    |
 |      |                          | 0 - 127       | negative HSV-Shift          | shift the color to a different Hue                                 |
 |      |                          | 128           | off                         |                                                                    |
