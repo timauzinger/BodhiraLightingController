@@ -23,7 +23,7 @@ There are other Settings regarding the Motor and fadeTimes of the Effects wich s
 
 Here you can have a look at the UI wich displays all controlable values:
 
-
+![the UI of the BodhiraLightingController](Documentation/Images/UI.jpg)
 
 As an additional Feature Audio can be inserted to be able to use a custom AutoPilot. This then changes the Base-Effect and Color as well as Overlay-Effects according to the Audio-Input. **Note:*** the thresholds for Kick and Snare detection have to be adjusted to make a good detection for the actual Song.
 
