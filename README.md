@@ -30,7 +30,7 @@ As an additional Feature Audio can be inserted to be able to use a custom AutoPi
 
 ## Controls
 
-Bohira can currently be controlled via DMx-Input or using an "Ableton Push 2". It always can also be controlled using the UI via mouse or touchscreen. In Future versions OSC-controlls may be added. 
+Bodhira can currently be controlled via DMx-Input or using an "Ableton Push 2". It always can also be controlled using the UI via mouse or touchscreen. In Future versions OSC-controlls may be added. 
 
 ### Dmx-Overview 
 
