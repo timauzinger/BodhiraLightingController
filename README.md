@@ -10,6 +10,77 @@ This is a touchdesigner-based software to live-control the kinetic light install
 - [Beitragende](#beitragende)
 - [Lizenz](#lizenz)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Dmx-Overview 
 
 | Ch   | Name                     | Range         | Value                       | Description                                                        | Image    |
