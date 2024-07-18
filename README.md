@@ -11,7 +11,7 @@ This is a touchdesigner-based software to live-control the kinetic light install
 - [Lizenz](#lizenz)
 
 
-| ID   | Name                     | Range         | Value                       | Description                                                        |
+| Ch   | Name                     | Range         | Value                       | Description                                                        |
 |------|--------------------------|---------------|-----------------------------|--------------------------------------------------------------------|
 | 1    | Tap-Tempo                |               |                             |                                                                    |
 |      |                          | 0             | off                         |                                                                    |
