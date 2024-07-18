@@ -6,79 +6,28 @@ This is a touchdesigner-based software to live-control the kinetic light install
 - [Overiview & UI](#Structure)
 - [Efect- and Color Presets](#effektübersicht)
 - [Controls](#controls)
-- [DMX-Overview](#Dmx-Overview)
+-- [DMX-Overview](#Dmx-Overview)
 - [Beitragende](#beitragende)
 - [Lizenz](#lizenz)
 
+## Overview & UI
 
+Bodhira's Lighting Effects are controlled using 2 Layers of 2D-Texture Effects. There are the Base-Effects intended to be used for longer display and Overlay-Effects intended fo short bursts of excitement. Additionally there are Color-Presets added wich can also be shifted towars the desired Color or for more expression possibilities. 
 
+These 2D-Texture Effects as well al Motor-Movement and additional Effects are controlled by a global Tap-Tempo wich can be Tapped-In at any time.
 
+Additionall Global-Effects: 
+* Beat-Enahncer:  adds global Brightness-Effect matched to the Beat
+* Auto-ColorShifter: adds a aubtle but continous change in color
+* Feedback: adds a Feedback-Effect wich smoothes out textures, enhances their Brightness and is generally a good practice for transitions and just playing around
 
+There are other Settings regarding the Motor and fadeTimes of the Effects wich should be pretty much self explanatory. 
 
+Here you can have a look at the UI wich displays all controlable values:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+As an additional Feature Audio can be inserted to be able to use a custom AutoPilot. This then changes the Base-Effect and Color as well as Overlay-Effects according to the Audio-Input. **Note:*** the thresholds for Kick and Snare detection have to be adjusted to make a good detection for the actual Song.
 
 
 ## Dmx-Overview 
