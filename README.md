@@ -51,9 +51,8 @@ Bodhira can currently be controlled via DMx-Input or using an "Ableton Push 2". 
 |      |                          | 185 - 212     | Color-Preset 7              | dark red                                                           | ![](Documentation/Images/Color7.jpg) |
 |      |                          | 213 - 255     | Color-Preset 8              | white                                                              | ![](Documentation/Images/Color8.jpg) |
 | 4    | **Color-Shift**              |               |                             |                                                                    |      |
-|      |                          | 0 - 127       | negative HSV-Shift          | shift the color to a different Hue                                 |      |
-|      |                          | 128           | off                         |                                                                    |      |
-|      |                          | 129 - 255     | positive HSV-Shift          | shift the color to a different Hue                                 |      |
+|      |                          | 0       | off          |                                |      |
+|      |                          | 1 - 255     | positive HSV-Shift          | shift the color to a different Hue                                 |      |
 | 5    | **Color-Preset FadeTime**    |               |                             |                                                                    |      |
 |      |                          | 0 - 255       | FadeTime - Value            | set the Time for Fading between Color-Presets                      |      |
 | 6    | **Overlay-Effects**          |               |                             |                                                                    |      |
